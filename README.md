@@ -59,9 +59,9 @@
 <hr/>
 
 <h4>UI Part</h4>
-<p>
+<ul>
   UI was created by <b>tkinter</b> and <b>customtkinter</b>
   It consists of the main widget with a looping of images that generate a gif. To be played on the background while the app is running.
-</p>
+</ul>
 
 <hr/>
