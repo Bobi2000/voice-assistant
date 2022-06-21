@@ -90,6 +90,9 @@ def main():
 
 
 def assistantMain():
+
+    interpetCommand("greet")
+
     while True:
         try:
             if keyboard.is_pressed('`'):
