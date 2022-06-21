@@ -1,4 +1,3 @@
 class Command():
-    def __init__(self): pass
-    def parseInput(): pass
-    def execute(): pass
+    def __init__(self, input): pass
+    def execute(self): pass

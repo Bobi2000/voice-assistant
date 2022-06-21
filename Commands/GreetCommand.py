@@ -4,10 +4,9 @@ from IO.output import speak
 
 
 class GreetCommand(Command):
-    def __init__(self): pass
-    def parseInput(): pass
+    def __init__(self, input): pass
 
-    def execute():
+    def execute(self):
         hour = datetime.datetime.now().hour
         if hour >= 0 and hour < 12:
             speak("Hello, Good Morning")
