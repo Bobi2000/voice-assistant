@@ -1,8 +1,8 @@
 # voice-assistant
 <hr/>
 <h3>The project consists of 2 main parts</h3>
-<ul><b>1. UI Part</b></ul>
-<ul><b>2. Logic Part</b></ul>
+<ul><b>1. Logic Part</b></ul>
+<ul><b>2. UI Part</b></ul>
 <hr/>
 
 <h4>Logic Part</h4>
